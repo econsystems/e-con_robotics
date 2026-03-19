@@ -10,10 +10,10 @@ We are a research team focused on advanced robotics solutions, including autonom
 
 ### Core Competencies
 
-- Autonomous navigation and mapping (single- and multi-robot systems)
+- Autonomous navigation and mapping (single and multi-robot systems)
+- Docking and charging station integration
 - Robot perception and sensor fusion
 - Object tracking and human-following systems
-- Docking and charging station integration
 - Low-level obstacle detection using depth and ToF sensors
 
 These projects encompass both software and hardware aspects of robotics, including AI-based perception, motion planning, and integration with custom robotic platforms.
@@ -40,13 +40,26 @@ The RCP provides a robust foundation for robotics development, enabling research
 
 - **Repository:** [ros2-multi-robot-autonomous-mapping](https://github.com/econsystems/ros2-multi-robot-automap)  
 - **Description:** Multi-robot autonomous mapping and navigation using ROS 2, SLAM Toolbox, and Navigation2. Supports Gazebo simulation, RViz visualization, and deployment on real mobile compatible robots.
-- **Blog & Documentation:** [Multi-Robot Autonomous Mapping Blog](https://www.e-consystems.com/blogs/robotics/multi-robot-autonomous-mapping/)  
+- **Blog & Documentation:** 
+   - BLOG 1: [why-multi-robot-autonomous-mapping-is-becoming-essential-for-large-scale-facilities-part-1](https://www.e-consystems.com/blog/camera/applications/why-multi-robot-autonomous-mapping-is-becoming-essential-for-large-scale-facilities-part-1/)  
+   - BLOG 2: [how-to-overcome-vision-challenges-while-building-a-multi-robot-mapping-system-part-2](https://www.e-consystems.com/blog/camera/applications/how-to-overcome-vision-challenges-while-building-a-multi-robot-mapping-system-part-2)
+
+
+### Project 2 – ROS 2 Docking System
+
+- **Repository:** [ros2-docking-system](https://github.com/econsystems/ros2-docking)  
+- **Description:** Multi-robot docking system for autonomous charging on real mobile robots, featuring a complete ROS 2 package and Yocto-based embedded workflow with Nav2 navigation, ArUco marker detection, and battery-aware mode switching.
+- **Blog & Documentation:** [ros2-docking-system]
+
+
+
 
 > Additional projects will be added as separate repositories as they are finalized.
+
 
 ---
 
 ## Contact & Blog
 
 For updates, discussions, and blog posts related to our robotics projects, visit:  
-[https://www.e-consystems.com/blogs/robotics/](https://www.e-consystems.com/blogs/robotics/)
+[https://www.e-consystems.com/blogs/](https://www.e-consystems.com/blog/camera/category/applications/)
