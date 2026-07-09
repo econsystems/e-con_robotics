@@ -51,7 +51,7 @@ The RCP provides a robust foundation for robotics development, enabling research
 - **Description:** Multi-robot docking system for autonomous charging on real mobile robots, featuring a complete ROS 2 package and Yocto-based embedded workflow with Nav2 navigation, ArUco marker detection, and battery-aware mode switching.
 - **Blog & Documentation:** 
    - BLOG 1: [how-robot-fleets-achieve-full-mission-autonomy-from-ros-2-autonomous-docking-to-self-charging](https://www.e-consystems.com/blog/camera/technology/how-robot-fleets-achieve-full-mission-autonomy-from-ros-2-autonomous-docking-to-self-charging/)  
-   - BLOG 2: [what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2]([https://www.e-consystems.com/blog/camera/applications/how-to-overcome-vision-challenges-while-building-a-multi-robot-mapping-system-part-2](https://www.e-consystems.com/blog/camera/applications/what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2/))
+   - BLOG 2: [what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2]([https://www.e-consystems.com/blog/camera/applications/how-to-overcome-vision-challenges-while-building-a-multi-robot-mapping-system-part-2](https://www.e-consystems.com/blog/camera/applications/what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2/)
 
 ### Project 3 – DepthVista Helix Isaac Sim Camera
 
