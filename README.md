@@ -58,10 +58,10 @@ The RCP provides a robust foundation for robotics development, enabling research
 - **Repository:** [DepthVista-Helix-IsaacSim-Camera](https://github.com/econsystems/DepthVista-Helix-IsaacSim-Camera)
 - **Description:** Adds the e-con DepthVista Helix iToF camera to Isaac Sim's supported cameras and depth sensors, with a ROS 2 publisher, a browser-based depth/point-cloud viewer, and ready-to-run example scenes.
 - **Blog & Documentation:** 
-
+   - BLOG 1: [robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim](https://www.e-consystems.com/blog/camera/technology/robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim/)  
 > Additional projects will be added as separate repositories as they are finalized.
 
-
+https://www.e-consystems.com/blog/camera/technology/robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim/
 ---
 
 ## Contact & Blog
