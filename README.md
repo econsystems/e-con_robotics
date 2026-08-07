@@ -61,7 +61,6 @@ The RCP provides a robust foundation for robotics development, enabling research
    - BLOG 1: [robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim](https://www.e-consystems.com/blog/camera/technology/robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim/)  
 > Additional projects will be added as separate repositories as they are finalized.
 
-https://www.e-consystems.com/blog/camera/technology/robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim/
 ---
 
 ## Contact & Blog
