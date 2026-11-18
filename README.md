@@ -53,12 +53,26 @@ The RCP provides a robust foundation for robotics development, enabling research
    - BLOG 1: [how-robot-fleets-achieve-full-mission-autonomy-from-ros-2-autonomous-docking-to-self-charging](https://www.e-consystems.com/blog/camera/technology/how-robot-fleets-achieve-full-mission-autonomy-from-ros-2-autonomous-docking-to-self-charging/)  
    - BLOG 2: [what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2]([https://www.e-consystems.com/blog/camera/applications/how-to-overcome-vision-challenges-while-building-a-multi-robot-mapping-system-part-2](https://www.e-consystems.com/blog/camera/applications/what-are-the-key-engineering-challenges-in-autonomous-docking-systems-and-how-are-they-solved-part-2/)
 
-### Project 3 – DepthVista Helix Isaac Sim Camera
+### Project 3 – DepthVista Helix Isaac Sim iToF Camera
 
 - **Repository:** [DepthVista-Helix-IsaacSim-Camera](https://github.com/econsystems/DepthVista-Helix-IsaacSim-Camera)
 - **Description:** Adds the e-con DepthVista Helix iToF camera to Isaac Sim's supported cameras and depth sensors, with a ROS 2 publisher, a browser-based depth/point-cloud viewer, and ready-to-run example scenes.
 - **Blog & Documentation:** 
    - BLOG 1: [robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim](https://www.e-consystems.com/blog/camera/technology/robotics-development-just-got-faster-smarter-e-con-systems-itof-3d-camera-comes-to-nvidia-isaac-sim/)  
+
+### Project 4 – ROS 2 Perception-Driven Object Tracking
+
+- **Description:** ROS 2 object-tracking demo shown at CES 2025: YOLO World detection, LiDAR-camera fusion, Nav2 navigation, CV72eSOM-based inference and AR0341 camera input on embedded hardware, from command to on-device image capture.
+- **Blog & Documentation:** 
+   - BLOG 1: [how-e-con-systems-empowers-autonomous-robots-with-ros-2-perception-driven-object-tracking](https://www.e-consystems.com/blog/camera/applications/how-e-con-systems-empowers-autonomous-robots-with-ros-2-perception-driven-object-tracking/)
+
+### Project 5 – NetraVis Isaac Sim Stereo Camera
+
+- **Repository:** [NetraVis-IsaacSim-Camera](https://github.com/econsystems/NetraVis-IsaacSim-Camera)
+- **Description:** Adds the e-con NetraVis6L_USB active stereo camera to Isaac Sim's camera and depth sensors, with built-in ROS 2 publishing, an IR dot projector, ground-truth and pseudo depth, and a ready-to-run nvblox navigation example.
+- **Blog & Documentation:** 
+   - BLOG 1: 
+
 > Additional projects will be added as separate repositories as they are finalized.
 
 ---
